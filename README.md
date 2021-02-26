@@ -12,3 +12,4 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 About the app:
 This app is for people who have trouble reading properly. People can enter a word, and they will get the individual sounds of the word.
 They can use the sounds to help them understand all the parts of the word.
+one more line added in your repository.
